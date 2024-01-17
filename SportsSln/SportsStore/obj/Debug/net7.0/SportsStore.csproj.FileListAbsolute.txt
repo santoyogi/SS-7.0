@@ -73,3 +73,4 @@ C:\Users\gisse\OneDrive\Desktop\CS\SS-7.0\SportsSln\SportsStore\obj\Debug\net7.0
 C:\Users\gisse\OneDrive\Desktop\CS\SS-7.0\SportsSln\SportsStore\obj\Debug\net7.0\SportsStore.csproj.CopyComplete
 C:\Users\gisse\OneDrive\Desktop\CS\SS-7.0\SportsSln\SportsStore\bin\Debug\net7.0\libman.json
 C:\Users\gisse\OneDrive\Desktop\CS\SS-7.0\SportsSln\SportsStore\bin\Debug\net7.0\SportsStore.staticwebassets.runtime.json
+C:\Users\gisse\OneDrive\Desktop\CS\SS-7.0\SportsSln\SportsStore\obj\Debug\net7.0\SportsStore.sourcelink.json
